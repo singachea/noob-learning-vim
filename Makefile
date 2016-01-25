@@ -2,8 +2,7 @@
 
 
 default:
-	git submodule init
-	git submodule update
+	grip
 
 
 update-local:

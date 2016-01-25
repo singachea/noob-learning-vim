@@ -297,3 +297,5 @@ if has('autocmd')                       " Set auto commands for various things.
         autocmd FileType textile call litecorrect#init()
     augroup END
 endif
+
+let g:vim_json_syntax_conceal = 0

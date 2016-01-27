@@ -183,6 +183,7 @@ Plug 'ciaranm/securemodelines'          " Heavily restricted modeline parser.
 " Auto-completion for quotes, brackets, parenthesis, etc.
 Plug 'jiangmiao/auto-pairs'
 Plug 'ryanss/vim-hackernews'            " Browse Hacker News within Vim.
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all'  }
 
 call plug#end()
 

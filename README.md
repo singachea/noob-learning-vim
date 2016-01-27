@@ -9,3 +9,5 @@ The vim-plug is already activated in `.vimrc` file. You just need to go vim and 
 Vim-Plug website: [https://github.com/junegunn/vim-plug](https://github.com/junegunn/vim-plug)
 
 The original vim file: [https://linuxious.com/files/vim/](https://linuxious.com/files/vim/)
+
+The pretty awesome FZF [https://github.com/junegunn/fzf#usage-as-vim-plugin](https://github.com/junegunn/fzf#usage-as-vim-plugin)

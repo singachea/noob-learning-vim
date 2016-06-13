@@ -75,9 +75,9 @@ Plug 'shawncplus/phpcomplete.vim', { 'for': 'php' }
 " =============================================================================
 " Plugin -- Interface
 " =============================================================================
-
-Plug 'bling/vim-airline'                " Lean status/tabline.
-    let g:airline_theme           = 'wombat'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'vim-airline/vim-airline'                " Lean status/tabline.
+    let g:airline_theme           = 'bubblegum'
     let g:airline_powerline_fonts = 1
     let g:airline_exclude_preview = 1
 

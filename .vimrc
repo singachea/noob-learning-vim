@@ -24,6 +24,8 @@ if $TERM =~ '-256color'                 " Set to 256 color if available.
     set t_Co=256
 endif
 
+au BufRead,BufNewFile {Gemfile,Vagrantfile,Berksfile} set ft=ruby
+
 " Start vim-plug (a minimalistic plugin manager) and load the plugins listed
 " below. It is available at: https://github.com/junegunn/vim-plug
 call plug#begin('~/.vim/plugged')

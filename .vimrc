@@ -219,7 +219,7 @@ set formatoptions=c,q,r,t               " Set how automatic formatting is done.
 
 set hidden                              " Edit multiple unsaved buffers.
 set history=200                         " Remember the last hundred commands.
-set hlsearch                            " Highlight search terms.
+"set hlsearch                            " Highlight search terms.
 set ignorecase                          " Ignore case while searching.
 set incsearch                           " Highlight matches as you type.
 set laststatus=2                        " Always show the status line.
